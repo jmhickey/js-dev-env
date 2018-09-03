@@ -12,3 +12,4 @@ Template JavaScript Development Environment
 - Add Mocha test with JSDOM example
 - Add HTTP examples and test JSON server
 - Add production build config
+- Add production deployment support via Heroku (web api) and Surge (front end)
